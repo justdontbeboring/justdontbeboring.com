@@ -1,0 +1,35 @@
+.social {
+  margin: 20px 0 0 0;
+  padding: 40px 0;
+  border-top: 1px dotted #ccc;
+  font-size: 16px;
+  text-align: left;
+
+  p {
+    margin: 0;
+    line-height: 32px;
+    font-family: sans-serif;
+    font-weight: 100;
+  }
+
+  a {
+    &:hover {
+      color: #333;
+    }
+  }
+
+  .fa {
+    color: inherit;
+  }
+
+  .social-buttons {
+    margin: 0 0 0 10px;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: 0 10px;
+      font-size: 28px;
+    }
+  }
+}

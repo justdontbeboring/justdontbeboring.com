@@ -1,0 +1,91 @@
+.post-page {
+  font-size: 20px;
+
+  h1 {
+    font-weight: 500;
+    line-height: 40px;
+    margin: 20px 0 40px 0;
+  }
+
+  img {
+    max-width: 100%;
+    margin: 0;
+  }
+
+  blockquote {
+    margin: 40px 0;
+    border-left: 5px solid #f0f0f0;
+    padding-left: 20px;
+  }
+
+  p {
+    margin: 20px 0;
+    line-height: 1.6em;
+    font-size: 1.2em;
+  }
+
+  pre {
+    margin: 20px 0;
+    border: 0;
+    border-radius: 0;
+    font-size: 20px;
+  }
+
+  ol,
+  ul {
+    margin-left: 40px;
+    line-height: 1.6em;
+    font-size: 1.2em;
+  }
+
+  figure {
+    width: 100%;
+    margin: 20px 0;
+
+    figcaption {
+      text-align: center;
+      font-size: 16px;
+      font-style: italic;
+      color: #999;
+    }
+  }
+
+  h2 {
+    margin-top: 40px;
+  }
+
+  .author-photo {
+    width: 150px;
+    display: block;
+    margin-top: 40px;
+  }
+
+  .clip-shape {
+    -webkit-clip-path: circle(50% at 50% 50%);
+    clip-path: circle(50% at 50% 50%);
+  }
+
+  a .fa {
+    color: #000;
+  }
+
+  a,
+  a:hover,
+  a:active,
+  a:visited {
+    color: #ec6563;
+  }
+
+  a:hover {
+    color: #666;
+    text-decoration: none;
+  }
+
+  .add-this-sharing-buttons {
+    margin: 40px 0;
+  }
+
+  #disqus_thread {
+    margin-top: 20px;
+  }
+}
