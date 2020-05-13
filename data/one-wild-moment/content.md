@@ -664,7 +664,7 @@ After making out, they’re lying down as a couple and Luna tells the guy that s
 
 When two of them drive home, the alpha girl is happy and the alpha dad is concerned.
 
-Notice the music that is playing that the girl enjoys. It's on old song made in 1974. This song is from the alpha dad's generation and now that the girl is in love with the alpha dad - she's in love with the music from his generation. Remember that earlier the girl was listening to modern techno music.
+Notice the music that is playing that the girl enjoys. It's on old song from 1974 - Les Mots Bleus by Christophe. This song is from the alpha dad's generation and now that the girl is in love with the alpha dad - she's in love with the music from his generation. Remember that earlier the girl was listening to modern techno music.
 
 <figure class="figure">
     <img src="./images/96.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
