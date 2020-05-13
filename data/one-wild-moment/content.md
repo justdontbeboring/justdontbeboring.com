@@ -48,6 +48,8 @@ Then the beta dad starts telling the story of how he was going to local school a
 
 Nobody wants to hear that story.
 
+Notice the music the girls are listening to - it's a modern techno music.
+
 <figure class="figure">
     <img src="./images/7.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
@@ -372,6 +374,8 @@ While driving in the car on their way back home we see the alpha girl falling in
 
 But she can’t stop looking at him. So far they’ve built the tension and they didn’t release it.
 
+The music that she presumably listens to is Rihanna a modern pop music.
+
 <figure class="figure">
     <img src="./images/56.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
@@ -659,6 +663,8 @@ After making out, they’re lying down as a couple and Luna tells the guy that s
 </figure>
 
 When two of them drive home, the alpha girl is happy and the alpha dad is concerned.
+
+Notice the music that is playing that the girl enjoys. It's on old song made in 1974. This song is from the alpha dad's generation and now that the girl is in love with the alpha dad - she's in love with the music from his generation. Remember that earlier the girl was listening to modern techno music.
 
 <figure class="figure">
     <img src="./images/96.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
