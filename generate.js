@@ -157,6 +157,17 @@ const copyPostFilesToBuild = (postConfig, rootDirectoryName) => {
   });
 };
 
+function transformPostHtml(postHtml) {
+  return postHtml
+    .replace(/<h1>/g, '<div class="col-sm-8 offset-sm-2"><h1>')
+    .replace(/<\/h1>/g, "</h1></div>")
+    .replace(/<p>/g, '<div class="col-sm-6 offset-sm-3"><p>')
+    .replace(/<\/p>/g, "</p></div>")
+    .replace(/<figure/g, '<div class="col-sm-12"><figure')
+    .replace(/<\/figure>/g, "</figure></div>")
+    .replace(/<hr \/>/g, '<div class="col-sm-8 offset-sm-2"><hr /></div>');
+}
+
 const createPost = (postDirectoryName, rootDirectoryName) => {
   const postConfig = readPostConfigFromFile(
     postDirectoryName,
@@ -169,7 +180,7 @@ const createPost = (postDirectoryName, rootDirectoryName) => {
     "content.md"
   );
   const postMarkdown = readMarkdownFromFile(contentFilePath);
-  const postHtml = convertMarkdownToHtml(postMarkdown);
+  const postHtml = transformPostHtml(convertMarkdownToHtml(postMarkdown));
 
   console.log(`💡 Creating: ${postConfig.title}`); // eslint-disable-line no-console
 

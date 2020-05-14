@@ -34,8 +34,8 @@ strong {
 .landing-page h1 {
   font-weight: 500;
   line-height: 40px;
-  margin: 20px 0 40px 0;
-  text-align: left; }
+  margin: 40px 0;
+  text-align: center; }
 
 .landing-page .posts {
   list-style-type: none;
@@ -43,18 +43,24 @@ strong {
   .landing-page .posts li {
     font-size: 30px;
     line-height: 36px;
-    text-align: left;
+    text-align: center;
     margin: 20px 20px 20px 0; }
     .landing-page .posts li .fa {
       color: #cecece;
       margin-right: 10px; }
 
+.landing-page .social {
+  text-align: center; }
+
 .post-page {
   font-size: 20px; }
+  .post-page hr {
+    width: 100%; }
   .post-page h1 {
     font-weight: 500;
-    line-height: 40px;
-    margin: 20px 0 40px 0; }
+    line-height: 50px;
+    text-align: center;
+    margin: 40px 0; }
   .post-page img {
     max-width: 100%;
     margin: 0; }
@@ -127,17 +133,19 @@ strong {
       font-size: 18px; }
 
 .header {
-  margin: 20px 0;
+  padding: 28px 0;
   border-bottom: 1px dotted #ccc; }
   .header .navigation {
-    text-align: left;
-    margin: 30px 0;
+    text-align: center;
+    margin: 0;
     font-family: sans-serif;
     font-weight: 100; }
     .header .navigation .logo {
-      font-family: "Zilla Slab", serif;
+      font-family: "Open Sans Condensed", sans-serif;
       font-size: 30px;
-      color: #666; }
+      font-weight: 300;
+      text-transform: uppercase;
+      color: #000; }
     .header .navigation li {
       list-style-type: none;
       display: inline-block;

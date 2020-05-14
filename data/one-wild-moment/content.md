@@ -238,7 +238,7 @@ Then the alpha dad starts to dance, and the girls join him.
 
 In that moment the beta dad walks in, turns off the music and shuts down the fun. He then complaints about his wife. In that conversation we learn that beta dad didn’t like his dad, but respected him.
 
--
+---
 
 When girls get into taxi to go out to a club, the alpha dad asks them if they know what will happen if they come back late. The alpha girl plays along and asks him: what?
 
@@ -254,7 +254,7 @@ The alpha dad playfully grabs her face. This is the first time they escalate the
 
 In the taxi, the alpha girl says that the beta’s girl dad is cool. The beta girl replies that alpha girl’s dad is not cool.
 
--
+---
 
 We see both fathers together in the kitchen. The alpha dad is siting with his leg on the table drinking beer. The beta dad washes dishes.
 
@@ -264,7 +264,7 @@ We see both fathers together in the kitchen. The alpha dad is siting with his le
 
 The alpha dad explains to his friend that beta dad’s daughter and his wife are family and the man doesn’t fit into their relationship. He will always be an outsider and they won’t share with him what they share between themselves.
 
--
+---
 
 Climbing down the waterfall. Instructor tells the group that they’re approaching the “lovers waterfall” and they need to split into pairs. The alpha dad goes first. Then the beta dad tells his alpha daughter that she’ll come with him (the beta dad). The girl objects, saying that this is a “lovers waterfall” and join the alpha dad. We don’t see alpha dad objecting and supporting her.
 
@@ -364,7 +364,7 @@ All while the beta dad sits further away from the group and argues with his wife
     <img src="./images/54.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
 
--
+---
 
 While driving in the car on their way back home we see the alpha girl falling in love with the alpha guy. The alpha guy is chilling, not paying any attention to her.
 
@@ -380,13 +380,13 @@ The music that she presumably listens to is Rihanna a modern pop music.
     <img src="./images/56.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
 
--
+---
 
 When the group walks the town street in the evening, we learn that the alpha girl is 17 and that the beta dad knows and likes another woman that both dads see on the street.
 
 They agree that the alpha dad will take both daughters to the party on the beach.
 
--
+---
 
 When the alpha dad and two daughters arrive to the party the alpha dad immediately tells that them that the party sucks and they should all go home. Clearly, we see that the party is cool and the dad wants to stay, but has to act as a dad and pretend that he doesn’t like it.
 
@@ -408,9 +408,9 @@ Before the girls go partying the beta girl kisses her dad on a cheek, while the 
 
 Once the girls left, the alpha dad starts acting as if he actually enjoys the party.
 
--
+---
 
-In the meantime, the beta dad back at that street finally approaches the women he knows and likes. In his approach he jokes that she follows him and he will call the cops. This is a push. He sets the frame and brings her into his frame, but then…
+In the meantime, the beta dad back at that street finally approaches the women he knows and likes. In his approach he jokes that she follows him and he will call the cops. This is a push. He sets the frame and brings her into his frame, but then...
 
 She calls him out on walking around for the last 10 minutes and not having confidence to approach her. He happily dismisses his own frame and accepts her frame and plays along. He jokingly explains himself - he says that what seems to be his lack of confidence is actually not that, but he couldn’t decide what to pick: chocolate or yam. He self-deprecates him, after she already deprecated him. He believes that his inability to make a decision somehow should be attractive and funny to the girl. Indeed, she laughs, but arguably - at his expense. This is a strong beta behaviour.
 
@@ -420,7 +420,7 @@ Then she leads the rest of the conversation.
     <img src="./images/60.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
 
--
+---
 
 Back at the beach party the alpha dad is being approached by a hot mature woman who’s closer to his age. She leads the conversation and buys him drinks.
 
@@ -460,7 +460,7 @@ She pulls him away from the older woman.
     <img src="./images/66.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
 
--
+---
 
 In the mean time the beta dad tells his date that they should kiss. He asks for a kiss. He acts needed. His date shit tests him. She mentions that he’s married because he wears a ring. He starts to explain himself to her. She’s not impressed.
 
@@ -472,7 +472,7 @@ In the mean time the beta dad tells his date that they should kiss. He asks for 
     <img src="./images/68.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
 
--
+---
 
 Back at the beach party, the alpha dad takes an alcohol test to see if he can drives. The girls come over and his beta daughter asks if she can leave with her friends. The dad asks the alpha daughter is she wants to go with her, but the alpha girl wants to stay with him. He lets the beta daughter go with her friends.
 
@@ -482,11 +482,11 @@ Back at the beach party, the alpha dad takes an alcohol test to see if he can dr
 
 Now the alpha dad and alpha daughter are left together. She asks him to order drinks.
 
--
+---
 
 The beta dad on his way home in a taxi argues with his wife on a phone. She’s in a bar with her new friends. The beta dad doesn’t trust her and asks her to come join them.
 
--
+---
 
 The alpha dad is drunk and he dances with the alpha girl. They’re now much closer to each other. Dancing together, holding hands and hugging.
 
@@ -674,7 +674,7 @@ When they arrive home, the beta dad meets them. Luna kisses alpha dad on a cheek
 
 It’s clear that she’s not trying to hide her affection for the alpha dad from her own father.
 
--
+---
 
 Next morning Luna walks into breakfast table wearing Alpha dad’s underwear. As if she’s claiming “the ownership” - the Alpha dad is now hers.
 
@@ -694,7 +694,7 @@ Luna mentions that she likes Corsica, yet, at the beginning of the film she comp
     <img src="./images/99.jpeg" alt="One Wild Moment" class="figure-img img-fluid img-rounded" />
 </figure>
 
--
+---
 
 Share your thoughts in comments or get in touch with me via email: [justdontbeboring@gmail.com](mailto:justdontgetboring@gmail.com).
 
