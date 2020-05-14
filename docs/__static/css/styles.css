@@ -39,12 +39,12 @@ strong {
 
 .landing-page .posts {
   list-style-type: none;
-  margin: 0; }
+  margin: 40px 0; }
   .landing-page .posts li {
     font-size: 30px;
     line-height: 36px;
     text-align: center;
-    margin: 20px 20px 20px 0; }
+    margin: 20px 0; }
     .landing-page .posts li .fa {
       color: #cecece;
       margin-right: 10px; }
@@ -143,7 +143,7 @@ strong {
     .header .navigation .logo {
       font-family: "Open Sans Condensed", sans-serif;
       font-size: 30px;
-      font-weight: 300;
+      font-weight: 700;
       text-transform: uppercase;
       color: #000; }
     .header .navigation li {
@@ -192,7 +192,7 @@ strong {
       width: 200px; }
 
 .social {
-  margin: 20px 0 0 0;
+  margin: 0;
   padding: 40px 0;
   border-top: 1px dotted #ccc;
   font-size: 16px;
