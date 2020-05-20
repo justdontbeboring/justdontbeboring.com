@@ -41,6 +41,10 @@
     margin-left: 40px;
     line-height: 1.6em;
     font-size: 1.2em;
+
+    li {
+      margin: 12px 0;
+    }
   }
 
   figure {
@@ -55,7 +59,8 @@
     }
   }
 
-  h2 {
+  h2,
+  h3 {
     margin-top: 40px;
   }
 

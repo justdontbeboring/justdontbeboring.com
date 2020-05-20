@@ -82,6 +82,9 @@ strong {
     margin-left: 40px;
     line-height: 1.6em;
     font-size: 1.2em; }
+    .post-page ol li,
+    .post-page ul li {
+      margin: 12px 0; }
   .post-page figure {
     width: 100%;
     margin: 20px 0; }
@@ -90,7 +93,8 @@ strong {
       font-size: 16px;
       font-style: italic;
       color: #999; }
-  .post-page h2 {
+  .post-page h2,
+  .post-page h3 {
     margin-top: 40px; }
   .post-page .author-photo {
     width: 150px;
