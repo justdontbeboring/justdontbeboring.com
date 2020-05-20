@@ -167,6 +167,8 @@ function transformPostHtml(postHtml) {
     .replace(/<\/h3>/g, "</h3></div>")
     .replace(/<ol>/g, '<div class="col-sm-6 offset-sm-3"><ol>')
     .replace(/<\/ol>/g, "</ol></div>")
+    .replace(/<ul>/g, '<div class="col-sm-6 offset-sm-3"><ul>')
+    .replace(/<\/ul>/g, "</ul></div>")
     .replace(/<p>/g, '<div class="col-sm-6 offset-sm-3"><p>')
     .replace(/<\/p>/g, "</p></div>")
     .replace(/<figure/g, '<div class="col-sm-12"><figure')
