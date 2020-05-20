@@ -50,7 +50,7 @@ There’re no gatekeepers anymore.
 
 What should photographers do in the current market? How should photographers position themselves? What value should they offer?
 
-Do what OnlyFans models can’t do.
+_Do what OnlyFans models can’t do._
 
 In your work:
 
